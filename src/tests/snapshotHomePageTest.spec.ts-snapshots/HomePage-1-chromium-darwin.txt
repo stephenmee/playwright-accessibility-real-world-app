@@ -1,0 +1,31 @@
+[
+  {
+    "rule": "color-contrast",
+    "targets": [
+      [
+        ".navbar-brand"
+      ],
+      [
+        "a[href$=\"#/login\"]"
+      ],
+      [
+        "a[href$=\"#/register\"]"
+      ],
+      [
+        ".container > p"
+      ],
+      [
+        "a[href=\"#\"]"
+      ],
+      [
+        ".logo-font[href$=\"/#/\"]"
+      ],
+      [
+        ".attribution"
+      ],
+      [
+        "a[href$=\"thinkster.io\"]"
+      ]
+    ]
+  }
+]
